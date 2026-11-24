@@ -1,0 +1,11 @@
+.venv/
+__pycache__/
+.env
+data/
+outputs/
+*.csv
+*.joblib
+*.pkl
+*.log
+*.rar
+*.zip
